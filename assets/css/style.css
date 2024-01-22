@@ -341,6 +341,22 @@ card-time
 }
 .card-description {
     margin: 0;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+}
+
+/*
+blog
+*/
+
+.blog_pic {
+    width: 100vw;
+}
+
+.blog1-background {
+    background-image: url(../image/blog1.jpg);
 }
 
 /*
@@ -434,7 +450,7 @@ button
 }
 .button.button-submission {
     background: #804949d2;
-    border: none;
+    border: solid #333 1px;
 }
 
 /*
