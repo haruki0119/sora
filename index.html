@@ -79,7 +79,11 @@
     <section class="inquiry" id="inquiry">
         <h1 class="inquiry-headline">お問い合わせ</h1>
         <form class="form" action="https://api.staticforms.xyz/submit" method="post">
-            <input type="hidden" name="accessKey" value="c27f3e00-30a9-439c-a281-dc4364b45fe1">
+            <input 
+                type="hidden"
+                name="accessKey"
+                value="c27f3e00-30a9-439c-a281-dc4364b45fe1"
+            >
             <table class="form-table">
                     <tr>
                         <th>
@@ -88,7 +92,7 @@
                             </label>
                         </th>
                         <td>
-                            <input class="input" type="text" id="name" required>
+                            <input class="input" type="text" id="name" name="name" required>
                         </td>
                     </tr>
                     <tr>
@@ -98,7 +102,7 @@
                             </label>
                         </th>
                         <td>
-                            <input class="input" type="email" id="email" required>
+                            <input class="input" type="email" id="email" name="email" required>
                         </td>
                     </tr>
                     <tr>
@@ -108,7 +112,7 @@
                             </label>
                         </th>
                         <td>
-                            <input class="input" type="live" id="live" required>
+                            <input class="input" type="live" id="live" name="subject" required>
                         </td>
                     </tr>
                     <tr>
@@ -116,7 +120,7 @@
                             <label for="detail">詳細</label>
                         </th>
                         <td>
-                            <textarea class="textarea" placeholder="詳細はこちらへ" id="detail" cols="32" rows="10" required></textarea>
+                            <textarea class="textarea" placeholder="詳細はこちらへ" id="detail" name="message" cols="32" rows="10" required></textarea>
                         </td>
                     </tr>
                 </table>
