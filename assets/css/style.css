@@ -363,6 +363,18 @@ blog
     padding: 20vw 0;
 }
 
+.blog2-background {
+    background-image: url(../image/blog2.jpg);
+    background-repeat: no-repeat;
+    background-size: 80vw auto;
+    background-position: 50% 0%;
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+    font-size: 30px;
+    padding: 20vw 0;
+}
+
 .blog-sentense {
     margin: 0 10vw;
 }
