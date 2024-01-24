@@ -351,12 +351,24 @@ card-time
 blog
 */
 
-.blog_pic {
-    width: 100vw;
-}
-
 .blog1-background {
     background-image: url(../image/blog1.jpg);
+    background-repeat: no-repeat;
+    background-size: 80vw auto;
+    background-position: 50% 0%;
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+    font-size: 30px;
+    padding: 20vw 0;
+}
+
+.blog-sentense {
+    margin: 0 10vw;
+}
+
+.day {
+    font-size: 15px;
 }
 
 /*
