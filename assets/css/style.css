@@ -144,7 +144,7 @@ tel
 base
 */
 .body {
-    font-family: 'Noto Sans JP', sans-serif, "Helvetica", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Arial", "Yu Gothic", "Meiryo", sans-serif;
+    font-family:'Yu Mincho Light','YuMincho','Yu Mincho','游明朝体','Yu Gothic UI','ＭＳ Ｐ明朝','MS PMincho','Meiryo UI','Times New Roman',sans-serif;
     font-size: 15px;
     line-height: 1.5;
     color: #333;
