@@ -144,7 +144,7 @@ tel
 base
 */
 .body {
-    font-family:'Yu Mincho Light','YuMincho','Yu Mincho','游明朝体','Yu Gothic UI','ＭＳ Ｐ明朝','MS PMincho','Meiryo UI','Times New Roman',sans-serif;
+    font-family: 'Noto Sans JP', sans-serif, "Helvetica", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Arial", "Yu Gothic", "Meiryo", sans-serif;
     font-size: 15px;
     line-height: 1.5;
     color: #333;
@@ -365,6 +365,18 @@ blog
 
 .blog2-background {
     background-image: url(../image/blog2.jpg);
+    background-repeat: no-repeat;
+    background-size: 80vw auto;
+    background-position: 50% 0%;
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+    font-size: 30px;
+    padding: 20vw 0;
+}
+
+.blog3-background {
+    background-image: url(../image/blog3.jpg);
     background-repeat: no-repeat;
     background-size: 80vw auto;
     background-position: 50% 0%;
