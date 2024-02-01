@@ -236,6 +236,12 @@ section > h1 {
     white-space: nowrap;
 }
 
+@media screen and (min-width: 769px){
+    .bunn {
+        font-size: 25px;
+    }
+}
+
 @media screen and (max-width: 768px){
     .bunn {
         font-size: 11px;
