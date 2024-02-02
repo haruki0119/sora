@@ -385,13 +385,13 @@ blog
 .blog3-background {
     background-image: url(../image/blog3.jpg);
     background-repeat: no-repeat;
-    background-size: 360px 640px;
+    background-size: 426px 640px;
     background-position: 50% 0%;
     text-align: center;
     color: #fff;
     font-weight: bold;
     font-size: 25px;
-    padding: 100px;
+    padding: 100px 0;
 }
 
 .blog-sentense {
