@@ -385,7 +385,7 @@ blog
 .blog3-background {
     background-image: url(../image/blog3.jpg);
     background-repeat: no-repeat;
-    background-size: 30vw auto;
+    background-size: 320px auto;
     background-position: 50% 20%;
     text-align: center;
     color: #fff;
