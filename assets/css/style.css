@@ -386,12 +386,11 @@ blog
     background-image: url(../image/blog3.jpg);
     background-repeat: no-repeat;
     background-size: 30vw auto;
-    background-position: 50% 0%;
+    background-position: 50% 20%;
     text-align: center;
     color: #fff;
     font-weight: bold;
-    font-size: 30px;
-    padding: 20vw 0;
+    font-size: 25px;
 }
 
 .blog-sentense {
