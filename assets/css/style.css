@@ -385,7 +385,7 @@ blog
 .blog3-background {
     background-image: url(../image/blog3.jpg);
     background-repeat: no-repeat;
-    background-size: 80vw auto;
+    background-size: 30vw auto;
     background-position: 50% 0%;
     text-align: center;
     color: #fff;
@@ -396,6 +396,7 @@ blog
 
 .blog-sentense {
     margin: 0 10vw;
+    font-size: 20px;
 }
 
 .day {
