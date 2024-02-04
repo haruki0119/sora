@@ -93,10 +93,12 @@ hero
 }
 .sora-font {
     font-size: 65px;
+    font-family: 'Noto Serif JP', serif;
     border-bottom: 5px solid #fff;
 }
 .sora-font div {
     font-size: 82px;
+    font-family: 'Noto Serif JP', serif;
     display: inline-block;
 }
 
@@ -176,6 +178,7 @@ header ul {
 }
 header a {
     font-size: 20px;
+    font-family: 'Noto Serif JP', serif;
     padding:  20px;
     font-weight: bold;
     text-decoration: none;
@@ -256,6 +259,7 @@ section > h1 {
     text-align: center;
     font-size: 25px;
     font-weight: bold;
+    font-family: 'Noto Serif JP', serif;
 }
 span {
     display: inline-block;
@@ -263,6 +267,7 @@ span {
 
 .instructions {
     font-size: 18px;
+    font-family: 'Noto Serif JP', serif;
     padding: 0 10% 0 18%;
 }
 
@@ -313,6 +318,7 @@ card
 */
 .card {
     padding: 0 10px;
+    padding-top: 50px;
 }
 .card-link {
     display: block;
