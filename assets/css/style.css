@@ -80,6 +80,7 @@ hero
 }
 .say {
     font-size: 31px;
+    font-family: 'Noto Serif JP', serif;
     padding: 0 0 0 15px;
 }
 .sora {
@@ -93,7 +94,7 @@ hero
 }
 .sora-font {
     font-size: 65px;
-    font-family: 'ヒラギノ明朝Pro', serif;
+    font-family: 'ヒラギノ明朝Pro','Noto Serif JP', serif;
     border-bottom: 5px solid #fff;
 }
 .sora-font div {
@@ -107,6 +108,7 @@ tel
 */
 .tel {
     font-size: 35px;
+    font-family: 'Noto Serif JP', serif;
     margin-left: auto;
     text-align: center;
     padding: 20px;
@@ -115,6 +117,7 @@ tel
 .tel-say {
     margin-top: 70px;
     font-size: 27px;
+    font-family: 'Noto Serif JP', serif;
     margin-bottom: 15px;
     text-shadow: 2px 0 0 #333,2px 2px 0 #333,0 2px 0 #333,-2px 2px 0 #333,-2px 0 0 #333,-2px -2px 0 #333,0 -2px 0 #333,2px -2px 0 #333;
 }
@@ -147,7 +150,7 @@ tel
 base
 */
 .body {
-    font-family: 'Noto Serif JP', serif;
+    font-family: 'Noto Serif JP', '游明朝体','メイリオ' serif;
 
     font-size: 15px;
     line-height: 1.5;
@@ -235,6 +238,7 @@ section > h1 {
 .bunn {
     position: absolute;
     color: #fff;
+    font-family: 'Noto Serif Jp', serif;
     top: 52%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -246,12 +250,14 @@ section > h1 {
 @media screen and (min-width: 769px){
     .bunn {
         font-size: 25px;
+        font-family: 'Noto Serif Jp', serif;
     }
 }
 
 @media screen and (max-width: 768px){
     .bunn {
         font-size: 11px;
+        font-family: 'Noto Serif Jp', serif;
     }
 }
 
@@ -281,6 +287,7 @@ span {
 .last {
     padding-right: auto;
     padding-left: 40%;
+    padding-top: 100px
 }
 
 @media screen and (max-width: 1064px){
