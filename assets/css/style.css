@@ -84,7 +84,7 @@ hero
 }
 .sora {
     font-style: italic;
-    font-family: 'メイリオ', serif;
+    font-family: 'Noto Serif JP', serif;
     font-size: 40px;
     padding: 0 0 0 350px;
     font-weight: bold;
@@ -93,7 +93,7 @@ hero
 }
 .sora-font {
     font-size: 65px;
-    font-family: 'Noto Serif JP', serif;
+    font-family: 'ヒラギノ明朝Pro', serif;
     border-bottom: 5px solid #fff;
 }
 .sora-font div {
