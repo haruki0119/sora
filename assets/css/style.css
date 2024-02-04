@@ -346,6 +346,7 @@ card
     color: #fff;
     display: block;
     padding: 5px 10px;
+    padding-top: 75px;
     font-size: 12px;
     font-family: 'Noto Serif JP', serif;
 }
