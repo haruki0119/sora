@@ -354,7 +354,6 @@ card
 }
 .card-info {
     padding: 50px 10px;
-    padding-top: 75px;
 }
 
 /*
@@ -364,7 +363,6 @@ card-time
     margin: 0;
     font-size: 20px;
     font-family: 'Noto Serif JP', serif;
-    padding-top: 75px;
 }
 .card-description {
     margin: 0;
