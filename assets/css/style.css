@@ -289,7 +289,6 @@ span {
 .last {
     padding-right: auto;
     padding-left: 40%;
-    padding-top: 100px
 }
 
 @media screen and (max-width: 1064px){
