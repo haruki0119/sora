@@ -446,6 +446,11 @@ context
     position: relative;
     margin: 0 auto;
 }
+.contextdo1 {
+    position: relative;
+    margin: 0 auto;
+    text-aline: center;
+}
 .tag {
     position: absolute;
     display: block;
