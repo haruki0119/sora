@@ -446,15 +446,30 @@ context
     position: relative;
     margin: 0 auto;
 }
+.contextdo1 {
+    display: inline-block;
+    text-align: center;
+}
 .tag {
     position: absolute;
     display: block;
     color: #fff;
     background-color: #bbb;
 }
+.tag1 {
+    position: absolute;
+    display: inline-block;
+    color: #fff;
+    background-color: #bbb;
+}
 .pic {
     display: block;
     padding: 1px;
+}
+.pic1 {
+    display: inline-block;
+    padding: 1px;
+    text-align: center;
 }
 .section-headline {
     margin-top: 20px;
