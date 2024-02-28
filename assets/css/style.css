@@ -85,7 +85,7 @@ hero
 }
 .say {
     font-size: 40px;
-    font-family: 'Noto Serif JP', serif;
+    font-family: 'Noto Serif JP','游明朝体', serif;
     padding: 0 0 0 15px;
 }
 .sora {
