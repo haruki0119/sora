@@ -245,7 +245,7 @@ section > h1 {
 .bunn {
     position: absolute;
     color: #fff;
-    font-family: 'Noto Serif Jp', serif;
+    font-family: 'Noto Serif Jp','游明朝体', serif;
     top: 52%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -272,7 +272,7 @@ section > h1 {
     text-align: center;
     font-size: 25px;
     font-weight: bold;
-    font-family: 'Noto Serif JP', serif;
+    font-family: 'Noto Serif JP','游明朝体', serif;
 }
 span {
     display: inline-block;
@@ -280,7 +280,7 @@ span {
 
 .instructions {
     font-size: 18px;
-    font-family: 'Noto Serif JP', serif;
+    font-family: 'Noto Serif JP','游明朝体', serif;
     padding: 0 10% 0 18%;
 }
 
@@ -367,7 +367,7 @@ card-time
 .card-headline {
     margin: 0;
     font-size: 20px;
-    font-family: 'Noto Serif JP', serif;
+    font-family: 'Noto Serif JP', '游明朝体',serif;
 }
 .card-description {
     margin: 0;
